@@ -13,8 +13,6 @@ Specify pattern:
 
 ## Command-line options
 ```
-patternfinder.exe --help
-
 Find patterns in http output based on regex string. Display occurences.
 
 Usage:
