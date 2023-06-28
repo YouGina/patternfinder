@@ -1,4 +1,4 @@
-# Patternfinder
+# Patternfinder <!-- Developed by: C. Swiers -->
 Find patterns in HTTP output based on regex string. Display occurrences.
 
 ## Installation
